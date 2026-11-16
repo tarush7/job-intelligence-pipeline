@@ -1,0 +1,4 @@
+# Offline engine dependency; SQLite is built into Python.
+pydantic==2.13.5
+# Optional live Ollama transport.
+httpx==0.28.1

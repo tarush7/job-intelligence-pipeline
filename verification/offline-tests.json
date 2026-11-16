@@ -1,0 +1,10 @@
+{
+  "tests_run": 427,
+  "passed": true,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "external_http_blocked": true,
+  "dotenv_disabled": true,
+  "placeholder_configuration": true
+}

@@ -1,0 +1,35 @@
+{
+  "standalone_demo": {
+    "initial_counts": {
+      "inserted": 131
+    },
+    "repeat_counts": {
+      "replayed": 131
+    },
+    "totals": {
+      "jobs": 131,
+      "canonical_jobs": 131,
+      "job_change_history": 0,
+      "observations": 131
+    },
+    "repeat_database_identical": true,
+    "model_calls": 0,
+    "synthetic_history_rows": 3,
+    "human_evaluation_status": "awaiting_human_labels"
+  },
+  "standalone_empty_environment": true,
+  "standalone_http_and_socket_creation_blocked": true,
+  "bundled_integration_tests": {
+    "tests_run": 12,
+    "passed": true,
+    "seconds": 11.869
+  },
+  "ruff_check_passed": true,
+  "ruff_format_check_passed": true,
+  "evaluation_cli": {
+    "records": 20,
+    "labeled_cells": 0,
+    "accuracy": null
+  },
+  "preserved_preexisting_files": 430
+}
